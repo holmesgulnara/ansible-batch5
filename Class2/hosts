@@ -1,0 +1,3 @@
+centos ansible_host=159.89.35.241
+
+ubuntu ansible_host=167.99.125.245
